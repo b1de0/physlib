@@ -44,6 +44,7 @@ public import Physlib.CondensedMatter.Crystal.Basic
 public import Physlib.CondensedMatter.LatticeModels.Basic
 public import Physlib.CondensedMatter.ManyBody.Basic
 public import Physlib.CondensedMatter.Response.Basic
+public import Physlib.CondensedMatter.Response.TransientGrating
 public import Physlib.CondensedMatter.Thermoelectric.Basic
 public import Physlib.CondensedMatter.TightBindingChain.Basic
 public import Physlib.CondensedMatter.Topology.Basic
